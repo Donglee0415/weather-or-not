@@ -2,10 +2,9 @@
 
 ## Description
  
-* 
+* Application for who want check weather before you departure
 
-* 
-
+* We will predict the  unpredictable weather in any area’s you wish to be
 
 ---
 
@@ -38,10 +37,10 @@
 
 ## Demo
 
-![Demo Image](./)
+![Demo Image](./Asset/image/weather-or-not_index.html.png)
 
 ---
 
-Deployment: 
+Deployment: https://donglee0415.github.io/weather-or-not/
 
  
